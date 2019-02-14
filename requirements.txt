@@ -1,3 +1,4 @@
+uproot
 matplotlib
 numpy>=1.13.1
 awkward>=0.8.0
