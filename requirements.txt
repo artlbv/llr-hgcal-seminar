@@ -1,3 +1,4 @@
+mpl_toolkits
 scipy
 uproot
 matplotlib
